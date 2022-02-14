@@ -42,6 +42,8 @@ with open('lines.txt','r') as file1:
 
 
 ### line.txt:
+![image](https://user-images.githubusercontent.com/94165326/153892370-95d3cf9d-7623-4087-b23e-eecc7b177dea.png)
+
 
 ### Terminal and text.txt:
 
