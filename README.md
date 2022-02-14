@@ -36,10 +36,9 @@ with open('lines.txt','r') as file1:
             file2.write(line)
 ```
 ### OUTPUT:
-## program:
-
-
 ### copy.py:
+![image](https://user-images.githubusercontent.com/94165326/153892248-d0e339b6-b30b-4a82-8c2a-a580e01f4198.png)
+
 
 
 ### line.txt:
